@@ -6,6 +6,8 @@
 
 [Русская версия](#русский) · [English](#english)
 
+**Download:** [ASCII Dungeon 3D v19](https://github.com/SMETAHA/ascii-dungeon-3d/releases/latest/download/ascii-dungeon-3d-v19.love) · Requires LÖVE 11.5.
+
 ## English
 
 ## Features
@@ -18,10 +20,20 @@
 - Procedural music and sound effects.
 - Run summaries, saved records, configurable audio, and debug overlays.
 
+## Screenshots
+
+| Main menu | Settings |
+| --- | --- |
+| <img src="screenshots/main-menu.png" alt="Main menu" width="460"> | <img src="screenshots/settings.png" alt="Settings menu" width="460"> |
+
+| Gameplay | Run summary |
+| --- | --- |
+| <img src="screenshots/gameplay.png" alt="Gameplay" width="460"> | <img src="screenshots/game-over.png" alt="Run summary after game over" width="460"> |
+
 ## Requirements
 
 - [LÖVE](https://love2d.org/) 11.5 or compatible.
-- `zip` is needed only to create a `.love` archive with `build_love.sh`.
+- Python 3 is needed only to create a `.love` archive with `build_love.sh`.
 
 ## Run
 
@@ -86,6 +98,8 @@ The project code is provided under the [MIT License](LICENSE). The bundled DejaV
 
 > **Статус:** экспериментальный прототип, разработка не завершена. Возможны недоработки, изменения баланса и незаконченная полировка.
 
+[Скриншоты](#screenshots) · **Скачать:** [ASCII Dungeon 3D v19](https://github.com/SMETAHA/ascii-dungeon-3d/releases/latest/download/ascii-dungeon-3d-v19.love) · Требуется LÖVE 11.5.
+
 ### Возможности
 
 - Псевдо‑3D-рендеринг с рейкастингом и ASCII-стилистикой.
@@ -99,7 +113,7 @@ The project code is provided under the [MIT License](LICENSE). The bundled DejaV
 ### Требования
 
 - [LÖVE](https://love2d.org/) версии 11.5 или совместимая.
-- `zip` нужен только для упаковки `.love` через `build_love.sh`.
+- Python 3 нужен только для упаковки `.love` через `build_love.sh`.
 
 ### Запуск
 
