@@ -1,0 +1,12 @@
+# LÖVE packages
+*.love
+
+# Local game data
+settings.cfg
+records.cfg
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
